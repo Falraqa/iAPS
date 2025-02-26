@@ -47,17 +47,20 @@ https://loopkit.github.io/loopdocs/gh-actions/gh-overview/
 - Dexcom ONE +   
 - Dexcom G7   
 - Libre 1   
-- Libre 2 (European)   
+- Libre 2 (European)
+- Libre 2 Plus (European)  
 - Medtronic Enlite
 - Nightscout as CGM
 
 # iPhone and iPod
 
-iAPS app runs on iPhone or iPod. An iPhone 8 or newer is required. Minimum iOS 16.
+iAPS app runs on iPhone or iPod. An iPhone 8 or newer is required. Minimum iOS 17.
 
 # Documentation
 
 [Discord iAPS - Server ](https://discord.com/invite/ptkk2Y264Z)
+
+[Facebook ](https://www.facebook.com/groups/403549385863967)
 
 [iAPS documentation (under development)](https://iaps.readthedocs.io/en/latest/)
 
